@@ -1,0 +1,69 @@
+.footer{
+    color: white;
+    text-align: center;
+    width: 100%;
+    font-size: 14px;
+    background: #424242;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+.homedit
+{
+    height: 88%;
+}
+body,html
+{
+    height: 100%;
+}
+.bg-custom
+{
+    background: #26c6da;
+}
+.navbar .nav-item .nav-link{
+    font-size: 20px;
+    color: white;
+}
+.navbar-custom .nav-item:hover .nav-link{
+    background: white;
+    color: black;
+    border-radius: 20px;
+}
+.footer-custom{
+    background: #26c6da;
+    font-size: 20px;
+    color: white;
+    background-size: cover;
+}
+.textt-custom
+{
+     color: #0097a7;
+}
+.text-custom{
+     color: #263238;
+}
+
+.div-color
+{
+   background-image: linear-gradient(to bottom, #a7bb56, #78c07d, #57bfa4, #58b9be, #77b1c6, #76b1c6, #75b0c5, #74b0c5, #54b8ba, #58bc9b, #7fbb71, #b1b34a);
+   height: 635px;
+}
+.custom-card
+{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 10px;
+    color: #26c6da;
+    width: 100%;
+}
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.container{
+    padding: 2px 16px;
+    color: #ffffff;
+    width: 100;
+}
+.card-body {
+
+}
